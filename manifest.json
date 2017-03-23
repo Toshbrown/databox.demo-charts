@@ -1,0 +1,1 @@
+{"app":{"name":"","description":"","tags":"","id":"a668dd0d.553ec"},"packages":[{"type":"tab","id":"69b14dc.1a60bb4","name":"new package","risks":"","benefits":"","purpose":"","install":"optional","datastores":[{"id":"ddb77dd.9cab78","name":"sensingkit","type":"light"},{"id":"77365310.b4d81c","name":"sensingkit","type":"accelerometer"}]}],"allowed-combinations":[]}
